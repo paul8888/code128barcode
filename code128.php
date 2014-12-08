@@ -1,5 +1,5 @@
 <?php
-// Paul Symansky, (c)2011
+// Paul, (c)2011
 // Code 128 Barcode Image Generator
 
 // This program is free software: you can redistribute it and/or modify
